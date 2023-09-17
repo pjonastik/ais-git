@@ -10,5 +10,6 @@ public class App
     {
         System.out.println("In this class are following superstars:");
         System.out.println("* Peter Jonastik");
+        System.out.println("Jan Mrkvicka");
     }
 }
