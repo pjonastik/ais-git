@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("In this class are following superstars:");
+        System.out.println("In this class are following superstars: Jiří Dohnal");
 	System.out.println("Tomas Varhanovsky");
     }
 }
